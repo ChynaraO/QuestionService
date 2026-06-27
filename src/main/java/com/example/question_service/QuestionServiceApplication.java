@@ -11,3 +11,6 @@ public class QuestionServiceApplication {
 	}
 
 }
+
+//in RunConfiguration Copy the current
+//click More options and add value "-Dserver.port=8081"  so it will run in 2 insatances
